@@ -10,6 +10,7 @@ EJECUCION
 ![image](https://github.com/user-attachments/assets/6ab05113-0486-4f94-b944-3174661ea9aa)
 
 CODIGO 2
+video de apollo   video de apollo https://www.google.com/search?q=como+hacer+un+traductor+en+python&oq=como+hacer+un+traductor+en+python&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExOTk3ajBqMagCALACAQ&sourceid=chrome&ie=UTF-8#
 
 ![image](https://github.com/user-attachments/assets/62c00856-6605-4e4e-8549-baf441f326af)
 
